@@ -53,6 +53,7 @@ class About:
 
 - 📧 Email: nitesh.pant [at] devdashllc.com
 - 💼 LinkedIn: [linkedin.com/in/niteshpant22](https://linkedin.com/in/niteshpant22)
+- niteshpant.com.np
 
 💡 Core Values
 ```typescript
