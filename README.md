@@ -30,6 +30,7 @@ class About:
 
 ## 💻 Recent Projects
 
+- **Census App** For a hospital in Dhangadhi, Nepal to record daily patient census data (transfers in, current, transfer out) and a reporting dashboard
 - **AI Product Development**: Kafka (automated blog writer); Luna (conversational chatbot for SMBs that scales for anything) 
 - **Marketing Automation**: @ DevDash
 - **Process Optimization**: @ DevDash
