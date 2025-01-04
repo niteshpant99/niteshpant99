@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitesh
 
-### 🛠️ Former Consultant Turned Tech Enthusiast | Building AI-Powered Solutions | Future startup founder :D 
+### 🛠️ Growth @ DevDash Labs | Building AI-powered solutions | Consultant turned future startup founder :D 
 
 ```python
 class About:
