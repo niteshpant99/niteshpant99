@@ -6,10 +6,10 @@
 class About:
     def __init__(self):
         self.name = "Nitesh Pant"
-        self.location = "Boston, MA"
+        self.location = "New York, NY"
         self.background = ["Dartmouth College", "Class of 2022", "Economics Major, Government Minor", "Ex-Roland Berger"]
-        self.current_role = "Senior Business Analyst & Growth Lead @ DevDash Solutions"
-        self.interests = ["AI/ML", "Process Automation", "Data Analytics"]
+        self.current_role = "Growth @ DevDash Labs"
+        self.interests = ["AI/ML", "Process Automation", "Product Development"]
         self.hobbies = ["DJ-ing 🎧 (house & techno)", "Rock Climbing 🧗", "DIY Electronics 🔧"]
 
     def get_tech_stack(self):
@@ -23,10 +23,9 @@ class About:
 
 ## 🔭 What I'm Working On
 
-- Building AI-enabled SaaS solutions for business process automation
-- Developing BI dashboards using AWS Athena and QuickSight
-- Optimizing marketing funnels and user acquisition strategies
-- Learning full-stack development and expanding my ML knowledge
+- Scaling DevDash Labs to help organizations implement AI Agents
+- Developing Arthex, a AI-powered earnings day stock analyzer
+- Learning full-stack development, building AI agents, and expanding my ML knowledge
 
 ## 💻 Recent Projects
 
