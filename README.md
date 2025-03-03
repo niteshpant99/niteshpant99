@@ -50,7 +50,7 @@ class About:
 
 ## 🤝 Let's Connect!
 
-- 📧 Email: nitesh.pant [at] devdashllc.com
+- 📧 Email: [nitesh.pant [at] devdashlabs.com](mailto:nitesh.pant@devdashlabs.com)
 - 💼 LinkedIn: [linkedin.com/in/niteshpant22](https://linkedin.com/in/niteshpant22)
 - niteshpant.com.np
 
