@@ -8,14 +8,14 @@ class About:
         self.name = "Nitesh Pant"
         self.location = "New York, NY"
         self.background = ["Dartmouth College", "Class of 2022", "Economics Major, Government Minor", "Ex-Roland Berger"]
-        self.current_role = "Growth @ DevDash Labs"
+        self.current_role = "Product & Growth @ DevDash Labs"
         self.interests = ["AI/ML", "Process Automation", "Product Development"]
         self.hobbies = ["DJ-ing 🎧 (house & techno)", "Rock Climbing 🧗", "DIY Electronics 🔧"]
 
     def get_tech_stack(self):
         return {
-            "languages": ["Python", "SQL", "Java", "R"],
-            "cloud": ["AWS (Athena, QuickSight)", "GCP"],
+            "languages": ["Typescript", "Python", "SQL", "Java", "R"],
+            "cloud": ["AWS (BedRock, Athena, QuickSight)", "GCP"],
             "tools": ["Git", "Asana", "Figma"],
             "frameworks": ["React", "Flask"]
         }
