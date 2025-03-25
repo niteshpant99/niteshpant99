@@ -25,6 +25,7 @@ class About:
 
 - Scaling DevDash Labs to help organizations implement AI Agents
 - Developing Arthex, a AI-powered earnings day stock analyzer
+- Developing Atlantis, a deep-research agent
 - Learning full-stack development, building AI agents, and expanding my ML knowledge
 
 ## 💻 Recent Projects
@@ -33,6 +34,8 @@ class About:
 - **AI Product Development**: Kafka (automated blog writer); Luna (conversational chatbot for SMBs that scales for anything) 
 - **Marketing Automation**: @ DevDash
 - **Process Optimization**: @ DevDash
+- **Atlantis**: Deep research agent prototype
+- **Alkemy**: Chemical intelligence platform for RB
 
 ## 🌱 Current Learning Focus
 
