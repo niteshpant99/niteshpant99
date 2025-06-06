@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitesh
 
-### 🛠️ Growth @ DevDash Labs | Building AI-powered solutions | Consultant turned startup founder :D 
+### 🛠️ Co-founder @ DevDash Labs | Building AI-powered solutions | Consultant turned startup founder :D 
 
 ```python
 class About:
@@ -8,54 +8,31 @@ class About:
         self.name = "Nitesh Pant"
         self.location = "New York, NY"
         self.background = ["Dartmouth College", "Class of 2022", "Economics Major, Government Minor", "Ex-Roland Berger"]
-        self.current_role = "Product & Growth @ DevDash Labs"
-        self.interests = ["AI/ML", "Process Automation", "Product Development"]
+        self.current_role = "Co-founder @ DevDash Labs"
+        self.interests = ["AI/ML", "Process Automation", "Product Development", "Philosophy"]
         self.hobbies = ["DJ-ing 🎧 (house & techno)", "Rock Climbing 🧗", "DIY Electronics 🔧"]
 
     def get_tech_stack(self):
         return {
             "languages": ["Typescript", "Python", "SQL", "Java", "R"],
-            "cloud": ["AWS (BedRock, Athena, QuickSight)", "GCP"],
-            "tools": ["Git", "Asana", "Figma"],
+            "cloud": ["AWS", "GCP"],
+            "tools": ["Git", "Jira/Asana", "Figma"],
             "frameworks": ["React", "Flask"]
         }
 ```
 
 ## 🔭 What I'm Working On
 
-- Scaling DevDash Labs to help organizations implement AI Agents
+- Scaling [DevDash Labs](https://devdashlabs.com) Labs to help organizations implement AI Agents
 - Developing Arthex, a AI-powered earnings day stock analyzer
-- Developing Atlantis, a deep-research agent
+- Developing [Atlantis](https://atlantis.devdashlabs.com), a deep-research agent
 - Learning full-stack development, building AI agents, and expanding my ML knowledge
-
-## 💻 Recent Projects
-
-- **Census App** For a hospital in Dhangadhi, Nepal to record daily patient census data (transfers in, current, transfer out) and a reporting dashboard
-- **AI Product Development**: Kafka (automated blog writer); Luna (conversational chatbot for SMBs that scales for anything) 
-- **Marketing Automation**: @ DevDash
-- **Process Optimization**: @ DevDash
-- **Atlantis**: Deep research agent prototype
-- **Alkemy**: Chemical intelligence platform for RB
-
-## 🌱 Current Learning Focus
-
-- Advanced ML/AI implementations
-- Full-stack web development
-- System design and architecture
-- Cloud infrastructure and DevOps
-
-## 📊 Analytics & Data Skills
-
-- Data Analysis: SQL, Python (Pandas, NumPy)
-- Visualization: QuickSight, Matplotlib, Seaborn
-- Business Intelligence: Athena, Excel/VBA
-- Statistical Analysis: R, STATA
 
 ## 🤝 Let's Connect!
 
 - 📧 Email: [nitesh.pant [at] devdashlabs.com](mailto:nitesh.pant@devdashlabs.com)
 - 💼 LinkedIn: [linkedin.com/in/niteshpant22](https://linkedin.com/in/niteshpant22)
-- niteshpant.com.np
+- niteshpant.com
 
 💡 Core Values
 ```typescript
@@ -87,8 +64,7 @@ Copyconst coreValues: Values[] = [
 console.log("Always learning, always building! 🚀");
 ```
 
-*Currently exploring opportunities in tech and AI. Open to collaborate on interesting projects!*
-
+*Currently exploring opportunities in tech and AI. Open to collaborating on interesting projects!*
 
 
 <!---
