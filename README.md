@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitesh
 
-### 🛠️ Co-founder @ DevDash Labs | Building AI-powered solutions | Consultant turned startup founder :D 
+### 🛠️ Co-founder @ DevDash Labs | buildign alkemy | Consultant turned startup founder 
 
 ```python
 class About:
@@ -23,9 +23,8 @@ class About:
 
 ## 🔭 What I'm Working On
 
-- Scaling [DevDash Labs](https://devdashlabs.com) Labs to help organizations implement AI Agents
-- Developing Arthex, a AI-powered earnings day stock analyzer
-- Developing [Atlantis](https://atlantis.devdashlabs.com), a deep-research agent
+- Scaling [DevDash Labs](https://devdashlabs.io) Labs
+- Developing alkemy, an AI-native OS for management consulting firms
 - Learning full-stack development, building AI agents, and expanding my ML knowledge
 
 ## 🤝 Let's Connect!
