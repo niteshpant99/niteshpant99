@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitesh
 
-### 🛠️ Co-founder @ DevDash Labs | buildign alkemy | Consultant turned startup founder 
+### 🛠️ @ DevDash Labs | buildign alkemy | Consultant turned startup founder 
 
 ```python
 class About:
@@ -8,7 +8,7 @@ class About:
         self.name = "Nitesh Pant"
         self.location = "New York, NY; moving to SF soon"
         self.background = ["Dartmouth College", "Class of 2022", "Economics Major, Government Minor", "Ex-Roland Berger"]
-        self.current_role = "Co-founder @ DevDash Labs, building alkemy"
+        self.current_role = "@ DevDash Labs, building alkemy"
         self.interests = ["Design", "Product", "Philosophy"]
         self.hobbies = ["DJ-ing 🎧 (house & techno)", "Rock Climbing 🧗", "DIY Electronics 🔧"]
 
